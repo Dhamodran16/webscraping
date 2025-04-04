@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="https://i.ibb.co/6b7084R/features-icon.png" alt="Features Icon" width="30" align="left"> Key Features
+##  Key Features
 
 * **Web Scraping:** Automatically fetches product data (name, quantity, price, discount) from Zepto and BigBasket websites.
 * **Data Storage:** Stores the scraped data in separate MongoDB databases for each platform.
@@ -40,7 +40,7 @@
 * **Voice Input:** Integrated voice recognition for hands-free interaction with the chatbot.
 * **Real-time Interaction:** Provides immediate responses and comparisons based on the scraped data.
 
-## <img src="https://i.ibb.co/0yQJq4G/tech-stack-icon.png" alt="Tech Stack Icon" width="30" align="left"> Tech Stack
+## Tech Stack
 
 * **Python:** The primary programming language used for scraping, data processing, and the Flask application.
 * **Selenium:** A powerful tool for automating web browser interactions, used here to navigate and extract data from dynamic websites.
@@ -52,7 +52,7 @@
 * **Font Awesome:** An icon library for incorporating useful icons into the user interface.
 * **MongoDB:** A NoSQL database used to store the scraped product data from Zepto and BigBasket.
 
-## <img src="https://i.ibb.co/zQYFk6P/installation-icon.png" alt="Installation Icon" width="30" align="left"> Installation
+## Installation
 
 1.  **Clone the repository:**
     ```bash

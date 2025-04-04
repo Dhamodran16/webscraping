@@ -85,7 +85,7 @@
     url_file = r"C:\Users\dhanashri laptop\Downloads\bigbasketlinks-copy.txt" # Replace with your path
     ```
 
-## <img src="https://i.ibb.co/WnSj8Fv/usage-icon.png" alt="Usage Icon" width="30" align="left"> Usage
+## Usage
 
 1.  **Run the web scraping scripts:**
     * Open separate terminal windows or tabs.
@@ -117,7 +117,7 @@
         * `bye` or `goodbye`: End the chat.
     * You can also use the microphone icon to input your queries using voice.
 
-## <img src="https://i.ibb.co/5Wz4pWk/database-icon.png" alt="Database Icon" width="30" align="left"> Database Structure
+##  Database Structure
 
 The scraped data is stored in MongoDB with the following database and collection structure:
 
@@ -139,7 +139,7 @@ The scraped data is stored in MongoDB with the following database and collection
                 * `Discount` (String): Discount information (e.g., "20% OFF", "No Discount").
                 * `URL` (String): The URL from which the product information was scraped.
 
-## <img src="https://i.ibb.co/Y08Yq3G/notes-icon.png" alt="Notes Icon" width="30" align="left"> Important Notes
+## Important Notes
 
 * **Website Structure Changes:** The scraping scripts are dependent on the HTML structure of the Zepto and BigBasket websites. If these websites undergo significant changes, the scripts may need to be updated to correctly locate and extract the data.
 * **Rate Limiting:** Be mindful of the scraping frequency to avoid overloading the target websites. The `time.sleep()` function is used to introduce delays between requests, but you may need to adjust these values.
@@ -148,7 +148,7 @@ The scraped data is stored in MongoDB with the following database and collection
 * **File Paths:** Double-check the file paths for the URL lists in `zepto.py` and `bigbasket.py` to ensure they are correct for your system.
 * **Error Handling:** The scripts include basic error handling, but you may want to enhance it for more robust performance in case of unexpected issues during scraping.
 
-## <img src="https://i.ibb.co/G93mG7g/contribute-icon.png" alt="Contribution Icon" width="30" align="left"> Contributing
+## Contributing
 
 Contributions to this project are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, feel free to:
 
@@ -158,7 +158,7 @@ Contributions to this project are welcome! If you find any bugs, have suggestion
 4.  Push your changes to your fork.
 5.  Submit a pull request.
 
-## <img src="https://i.ibb.co/jHG0Z9Q/license-icon.png" alt="License Icon" width="30" align="left"> License
+##  License
 
 This project is licensed under the [MIT License](https://github.com/Dhamodran16/webscraping/blob/main/LICENSE).
 

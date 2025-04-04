@@ -1,0 +1,13 @@
+{
+    "intents": [
+      {
+        "patterns": ["hi", "hello"],
+        "responses": ["Hello! How can I assist you today? \n1️⃣ Compare Price \n2️⃣ Product Info"]
+      },
+      {
+        "patterns": ["bye", "goodbye"],
+        "responses": ["Goodbye! Have a great day! 😊"]
+      }
+    ]
+  }
+  

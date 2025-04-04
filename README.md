@@ -162,7 +162,7 @@ Contributions to this project are welcome! If you find any bugs, have suggestion
 
 This project is licensed under the [MIT License](https://github.com/Dhamodran16/webscraping/blob/main/LICENSE).
 
-## <img src="https://i.ibb.co/t441W2N/acknowledgements-icon.png" alt="Acknowledgements Icon" width="30" align="left"> Acknowledgements
+## Acknowledgements
 
 * This project utilizes the power of open-source libraries like Selenium, PyMongo, and Flask.
 * The design of the chat interface is inspired by various online resources and Bootstrap templates.

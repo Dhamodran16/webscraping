@@ -158,9 +158,6 @@ Contributions to this project are welcome! If you find any bugs, have suggestion
 4.  Push your changes to your fork.
 5.  Submit a pull request.
 
-##  License
-
-This project is licensed under the [MIT License](https://github.com/Dhamodran16/webscraping/blob/main/LICENSE).
 
 ## Acknowledgements
 
